@@ -1,0 +1,19 @@
+{
+    "name": "websemantics/horizon-skin",
+    "description": "Lightly colored skin with an immersed sidebar",
+    "type": "pyrocms-theme-skin",
+    "keywords": [
+        "websemantics",
+        "pyrocms",
+        "theme",
+        "skin"
+    ],
+    "require": {
+        "websemantics/pyrocms-theme": "*"
+    },
+    "autoload": {
+        "psr-4": {
+          "Websemantics\\HorizonSkin\\": "src/"
+        }
+    }
+}
