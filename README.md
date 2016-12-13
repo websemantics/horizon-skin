@@ -16,6 +16,8 @@
 ```
 > Lightly colored skin with an immersed sidebar
 
+![](https://github.com/websemantics/github-skin/raw/master/resources/img/horizon.png)
+
 ## Install
 
 1- Use `composer ` to install,
